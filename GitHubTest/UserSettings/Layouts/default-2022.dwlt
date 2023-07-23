@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1206.4
     height: 715.2
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Hierarchy
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -337,9 +337,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 245a0000
-    m_LastClickedID: 23076
-    m_ExpandedIDs: 00000000245a000000ca9a3bffffff7f
+    m_SelectedIDs: 4c5a0000
+    m_LastClickedID: 23116
+    m_ExpandedIDs: 000000004c5a000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -367,7 +367,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000245a0000
+    m_ExpandedIDs: 000000004c5a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -946,7 +946,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 2.881411
     speed: 2
-    m_Value: 2.882492
+    m_Value: 2.881411
   m_Ortho:
     m_Target: 0
     speed: 2
